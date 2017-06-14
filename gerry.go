@@ -1,8 +1,8 @@
 package gerry
 
 import (
-	log "github.com/Sirupsen/logrus"
 	"github.com/meatballhat/negroni-logrus"
+	log "github.com/sirupsen/logrus"
 	"github.com/urfave/negroni"
 	"net/http"
 	"time"
